@@ -2,7 +2,7 @@
 
 Fresher
 
-- 🔭 Here's my [portfolio](https://sites.google.com/view/parthasarathy-ak/home)                                                
+- 🔭 Here's my [portfolio](https://portfolio-parthasarathy.web.app/)                                                
 - 🌱 I’m currently learning Spring Boot
 - 📫 How to reach me :
 <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/parthasarathyak/) [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:parthasarathy3737@gmail.com)
